@@ -1,5 +1,5 @@
 
-character = (name,level,species,admin,donor,weapon) ->
+character = (name,level,health,species,admin,donor,weapon) ->
 	alert "Name = "+name
 	alert "Level = "+level
 	alert "Species = "+species
