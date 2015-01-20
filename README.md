@@ -30,3 +30,16 @@ monster("Theif",3,100)
 Math
 ====
 I made some Math functions. Examples:
+```
+AofTrap(7,8,10)
+AofC(10)
+```
+
+Tardis
+======
+For Dr.Who lovers! Examples:
+```
+doctor("Who",11)
+timebox("Who","blue")
+```
+
